@@ -15,7 +15,6 @@ pip install mysqlclient
 ### Installing
 
 Clone repo and edit the config file with the mysql database details.
-```
 
 ## Running the ingestion-transform process
 
