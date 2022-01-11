@@ -4,7 +4,7 @@ mini pipeline
 
 ### Prerequisites
 
-Need a mysql instance with blanck Schema "ticket_sales" defined.
+Need a mysql instance with blank Schema "ticket_sales" defined.
 
 bash```
 pip install mysql
