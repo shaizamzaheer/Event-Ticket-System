@@ -6,7 +6,7 @@ mini pipeline
 
 Need a mysql instance with blank Schema "ticket_sales" defined.
 
-bash```
+```bash
 pip install mysql
 pip install mysql-connector-python
 pip install mysqlclient
